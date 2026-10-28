@@ -81,7 +81,7 @@ This is simultaneously shown on the 16x2 LCD display and parsed in real time by 
 
 ---
 
-## 📦 How to Push to GitHub (`naveenkumarnee24-png`)
+## 📦 How to Push to GitHub (`sudharshanaa1417-lab`)
 
 1. Open your terminal in this project directory:
    ```bash
@@ -95,7 +95,7 @@ This is simultaneously shown on the 16x2 LCD display and parsed in real time by 
    git add .
    git commit -m "Initial commit: Complete BLDC Motor Thrust Test Stand telemetry portal"
    git branch -M main
-   git remote add origin https://github.com/naveenkumarnee24-png/BLDC-Motor-Thrust-Stand.git
+   git remote add origin https://github.com/sudharshanaa1417-lab/BLDC-Motor-Thrust-Stand.git
    git push -u origin main
    ```
 
@@ -105,7 +105,7 @@ This is simultaneously shown on the 16x2 LCD display and parsed in real time by 
 
 1. Go to [https://vercel.com](https://vercel.com) and log in with your GitHub account.
 2. Click **"Add New..."** -> **"Project"**.
-3. Import the `BLDC-Motor-Thrust-Stand` repository from `naveenkumarnee24-png`.
+3. Import the `BLDC-Motor-Thrust-Stand` repository from `sudharshanaa1417-lab`.
 4. In the configuration step:
    - Framework Preset: **Other**
    - Root Directory: `./`
@@ -133,4 +133,4 @@ This is simultaneously shown on the 16x2 LCD display and parsed in real time by 
 - **Course**: S5 Mini Project (Electrical & Electronics / Robotics & Automation)
 - **Title**: BLDC Motor Thrust with Microcontroller Telemetry Test Stand
 - **Hardware**: Arduino UNO, HX711 24-Bit ADC, ACS712-20A Hall Current Sensor, Infrared Optical RPM Sensor, 16x2 I2C LCD
-- **Developer**: [naveenkumarnee24-png](https://github.com/naveenkumarnee24-png)
+- **Developer**: [sudharshanaa1417-lab](https://github.com/sudharshanaa1417-lab)

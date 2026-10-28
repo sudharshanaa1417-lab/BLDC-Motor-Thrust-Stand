@@ -16,7 +16,7 @@ if "%TOKEN%"=="" (
 ) else (
     echo.
     echo Pushing with provided Personal Access Token...
-    git push https://%TOKEN%@github.com/naveenkumarnee24-png/BLDC-Motor-Thrust-Stand.git main
+    git push https://%TOKEN%@github.com/sudharshanaa1417-lab/BLDC-Motor-Thrust-Stand.git main
 )
 
 echo.
